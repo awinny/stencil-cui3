@@ -1,5 +1,5 @@
 import { r as registerInstance, h } from './core-576488ff.js';
-import { r as routes } from './routes-f4219c6f.js';
+import { r as routes } from './routes-5519aa1a.js';
 
 const SecondaryItems = class {
     constructor(hostRef) {
