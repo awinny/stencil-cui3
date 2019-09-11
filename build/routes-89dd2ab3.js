@@ -1,0 +1,8 @@
+const routes = [
+    { url: '/', component: 'page-home', exact: true, data: { text: 'Home', type: 'primary' } },
+    { url: '/', component: 'page-contact', exact: true, data: { text: 'Contact', type: 'primary' } },
+    { url: '/profile', component: 'page-profile', data: { text: 'Profile', type: 'secondary' } },
+    { component: 'page-none' }
+];
+
+export { routes as r };
