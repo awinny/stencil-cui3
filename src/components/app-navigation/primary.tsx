@@ -9,7 +9,7 @@ import { routes } from '../../routes';
 })
 export class PrimaryItems {
 
-  componentDidLoad() {
+  componentDidRender() {
     window['CorporateUi'].baseComponents(['main-navigation']);
   }
 
