@@ -12,5 +12,11 @@ export const config: Config = {
       serviceWorker: null,
       baseUrl: '/stencil-cui3'
     }
+  ],
+  copy: [
+    {
+      src: '404.html',
+      dest: '404.html'
+    },
   ]
 };
