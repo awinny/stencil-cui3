@@ -17,7 +17,7 @@ export class AppContent {
     return (
       <section class="light">
         <div class="container">
-          <stencil-router>
+          <stencil-router root="/stencil-cui3/">
             <stencil-route-switch scrollTopOffset={0}>
               {routes.map(item => <stencil-route { ...item }></stencil-route>)}
             </stencil-route-switch>
