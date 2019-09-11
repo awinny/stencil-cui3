@@ -1,5 +1,5 @@
-import { r as registerInstance, d as getContext, h, c as getElement } from './core-576488ff.js';
-import { A as ActiveRouter } from './active-router-d60ddf22.js';
+import { r as registerInstance, d as getContext, h, c as getElement } from './core-d2c1f4f6.js';
+import { A as ActiveRouter } from './active-router-146f215e.js';
 import { s as stripTrailingSlash, a as addLeadingSlash, h as hasBasename, b as stripBasename, c as createLocation, d as createKey, e as createPath, f as stripLeadingSlash, l as locationsAreEqual } from './location-utils-1c8d4830.js';
 import { s as storageAvailable, a as supportsHistory, b as supportsPopStateOnHashChange, g as getConfirmation, i as isExtraneousPopstateEvent, c as supportsGoWithoutReloadUsingHash } from './dom-utils-780e0208.js';
 

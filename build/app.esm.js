@@ -1,4 +1,4 @@
-import { p as patchBrowser, g as globals, b as bootstrapLazy } from './core-576488ff.js';
+import { p as patchBrowser, g as globals, b as bootstrapLazy } from './core-d2c1f4f6.js';
 
 patchBrowser().then(options => {
   globals();

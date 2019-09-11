@@ -1,4 +1,4 @@
-import { r as registerInstance, h } from './core-576488ff.js';
+import { r as registerInstance, h } from './core-d2c1f4f6.js';
 
 const PageNone = class {
     constructor(hostRef) {
